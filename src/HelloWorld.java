@@ -2,8 +2,8 @@ import java.util.ArrayList;
 
 public class HelloWorld {
 	public static void main(String[]args){
-//		int a = 0;
-//		int c = 0;
+//		int a = 10;
+//		int c = 10;
 //		do{
 //			--c;
 //			a=a-1;
